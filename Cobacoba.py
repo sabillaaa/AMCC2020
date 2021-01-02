@@ -1,7 +1,0 @@
-print("Coba")
-print("Coba1")
-print("Coba2")
-print("Coba3")
-print("coba print lagi")
-print("coba print lagi2")
-print("coba print lagi3")
